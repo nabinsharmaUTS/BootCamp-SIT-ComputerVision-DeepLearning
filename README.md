@@ -2,14 +2,14 @@
 
 Starting on 22nd September 2023
 
-### Dr. Nabin Sharma, PhD, SMIEEE
-#### Associate Professor,
-#### Co-Director (Intelligent Drone Lab),
-Faculty of Engineering and Information Technology,
-University of Technology Sydney,
-School of Computer Science,
-Broadway, Ultimo, NSW 2007 Australia
-Email: Nabin.Sharma@uts.edu.au
+### Dr. Nabin Sharma, PhD, SMIEEE <br/>
+Associate Professor,<br/>
+Co-Director (Intelligent Drone Lab),<br/>
+Faculty of Engineering and Information Technology,<br/>
+University of Technology Sydney,<br/>
+School of Computer Science,<br/>
+Broadway, Ultimo, NSW 2007 Australia<br/>
+**Email**: Nabin.Sharma@uts.edu.au
 
 ## Objective:
 * Introduction to AI, Machine Learning, Deep Learning and Computer Vision fundamentals.
