@@ -1,8 +1,8 @@
 # Welcome to the Computer Vision and Deep Learning @ Siliguri Institute of Technology, Siliguri
 
-Starting on 22nd September 2023
+Starting on 22nd September 2023<br/>
 
-### Dr. Nabin Sharma, PhD, SMIEEE <br/>
+**Dr. Nabin Sharma, PhD, SMIEEE** <br/>
 Associate Professor,<br/>
 Co-Director (Intelligent Drone Lab),<br/>
 Faculty of Engineering and Information Technology,<br/>
