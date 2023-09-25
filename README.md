@@ -1,6 +1,6 @@
 # Welcome to the Computer Vision and Deep Learning @ Siliguri Institute of Technology, Siliguri
 
-Starting on 22nd September 2023<br/>
+**Start date:** 22nd September 2023<br/>
 
 **Dr. Nabin Sharma, PhD, SMIEEE** <br/>
 Associate Professor,<br/>
