@@ -30,3 +30,10 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
   1. Image Processing Basics, edge detection
   2. Hands-on: Edge detection using Convolution operation
 
+
+## References:
+* OpenCV:
+* Python:
+* Deep Learning: <TBA>
+* Object Detection: <TBA>
+
