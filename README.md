@@ -44,7 +44,7 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
 * Python and Numpy: <a>https://cs231n.github.io/python-numpy-tutorial/ </a>
 * Numpy: <a>https://numpy.org/learn/ </a>
 * Pythorch : <a> https://pytorch.org/tutorials/ </a>
-* Deep Learning:
+* Deep Learning:<br/>
   1.(<a>http://www.deeplearningbook.org/ </a>) (<a>https://github.com/janishar/mit-deep-learning-book-pdf</a>)<br/>
   2. <a>https://d2l.ai/index.html</a>
 * Object Detection: TBA
