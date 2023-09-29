@@ -29,13 +29,27 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
 * **Day-2:**
   1. Image Processing Basics, edge detection
   2. Hands-on: Edge detection using Convolution operation
+ 
+* **Day-3:**
+  1. Handcrafted Feature extraction: HoG (Gradient based), LBP (Texture)
+  2. Neural Network basics
+  3. Logistic regression/ Binary classification using a Neural Network
+  4. Understanding: Loss Function, Activation function, Basics of Optimization
+  5. Strategies for training a Neural Network
+  6. Hands-on: Using handcrafted features, Logistic Regression using Neural Network
 
 
 ## References:
 * OpenCV Tutorial and reference: <a>https://github.com/dalgu90/opencv-tutorial</a>
 * Python and Numpy: <a>https://cs231n.github.io/python-numpy-tutorial/ </a>
+* Numpy: <a>https://numpy.org/learn/ </a>
+* Pythorch : <a> https://pytorch.org/tutorials/ </a>
 * Deep Learning:
 *   (<a>http://www.deeplearningbook.org/ </a>) (<a>https://github.com/janishar/mit-deep-learning-book-pdf</a>)
 *   <a>https://d2l.ai/index.html</a>
-* Object Detection: <TBA>
+* Object Detection: [TBA
+
+## Computing resources:
+* AWS Studio Labs: <a> https://studiolab.sagemaker.aws/ </a> (Apply for a freee account without any credit card)
+* Google Colab
 
