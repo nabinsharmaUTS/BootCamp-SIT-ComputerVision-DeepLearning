@@ -11,7 +11,7 @@ School of Computer Science,<br/>
 Broadway, Ultimo, NSW 2007 Australia<br/>
 **Email**: Nabin.Sharma@uts.edu.au
 
-## Objective:
+## Topics:
 * Introduction to AI, Machine Learning, Deep Learning and Computer Vision fundamentals.
 * Understand the difference between traditional machine learning and Deep Learning.
 * Able to Build, Train, and Test a Convolutional Neural Network (CNN) from scratch.
