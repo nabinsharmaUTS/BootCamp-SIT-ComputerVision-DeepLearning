@@ -49,6 +49,7 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
 *   <a>https://d2l.ai/index.html</a>
 * Object Detection: [TBA
 
+
 ## Computing resources:
 * AWS Studio Labs: <a> https://studiolab.sagemaker.aws/ </a> (Apply for a freee account without any credit card)
 * Google Colab
