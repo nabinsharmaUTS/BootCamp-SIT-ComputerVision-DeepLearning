@@ -1,4 +1,4 @@
-# Welcome to the Computer Vision and Deep Learning @ <br/> Siliguri Institute of Technology, Siliguri
+# BootCamp: Computer Vision and Deep Learning @ <br/> Siliguri Institute of Technology, Siliguri
 
 **Start date:** 22nd September 2023<br/>
 
