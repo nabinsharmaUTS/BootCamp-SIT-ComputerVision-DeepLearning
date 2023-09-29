@@ -57,5 +57,5 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
 ## Example Computer Vision and Deep Learning Projects:
 [![PronAI](Images/pronAI-Thumnail.jpg)](https://www.youtube.com/watch?v=e1ZaHtrNL58?si=bWyQe0Zc1sjonpdH)
 
-[![PronAI](Images/pronAI-Thumnail.jpg)](https://www.youtube.com/watch?v=D9GNhsgHb20?si=VUev875Ly68ZBV_I)
+[![InkWell AI](Images/IW-Thumnail.jpg)](https://www.youtube.com/watch?v=D9GNhsgHb20?si=VUev875Ly68ZBV_I)
 
