@@ -32,8 +32,10 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
 
 
 ## References:
-* OpenCV:
-* Python:
-* Deep Learning: <TBA>
+* OpenCV Tutorial and reference: <a>https://github.com/dalgu90/opencv-tutorial</a>
+* Python and Numpy: <a>https://cs231n.github.io/python-numpy-tutorial/ </a>
+* Deep Learning:
+*   (<a>http://www.deeplearningbook.org/ </a>) (<a>https://github.com/janishar/mit-deep-learning-book-pdf</a>)
+*   <a>https://d2l.ai/index.html</a>
 * Object Detection: <TBA>
 
