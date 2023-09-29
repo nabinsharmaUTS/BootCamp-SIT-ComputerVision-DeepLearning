@@ -55,5 +55,5 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
 * Google Colab
 
 ## Example Computer Vision and Deep Learning Projects https:
-[![PronAI](Images/pronAI.jpg)](https://www.youtube.com/watch?v=e1ZaHtrNL58?si=bWyQe0Zc1sjonpdH)
+[![PronAI](Images/pronAI-Thumnail.jpg)](https://www.youtube.com/watch?v=e1ZaHtrNL58?si=bWyQe0Zc1sjonpdH)
 
