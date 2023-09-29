@@ -54,5 +54,6 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
 * AWS Studio Labs: <a> https://studiolab.sagemaker.aws/ </a> (Apply for a freee account without any credit card)
 * Google Colab
 
-## Example Computer Vision and Deep Learning Projects
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e1ZaHtrNL58?si=Xg8MlYtCzIsUHTbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Example Computer Vision and Deep Learning Projects https:
+[![PronAI](https://img.youtube.com/vi/e1ZaHtrNL58?si=bWyQe0Zc1sjonpdH/0.jpg)](https://www.youtube.com/watch?v=e1ZaHtrNL58?si=bWyQe0Zc1sjonpdH)
+
