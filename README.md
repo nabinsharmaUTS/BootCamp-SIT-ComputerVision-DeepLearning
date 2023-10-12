@@ -38,6 +38,13 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
   5. Strategies for training a Neural Network
   6. Hands-on: Using handcrafted features, Logistic Regression using Neural Network
 
+* **Day-4:**
+  1. Recap
+  2. Backpropagation basics
+  3. Gradient Descent intuition, types
+  4. Understanding Activation functions, types, loss function
+  5. Combining activation function, backpropagation, Loss function, Gradient Descent together
+  6. Hands-on:  Basic Image classification Pipeline using Neural Network
 
 ## References:
 * OpenCV Tutorial and reference: <a>https://github.com/dalgu90/opencv-tutorial</a>
