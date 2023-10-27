@@ -46,6 +46,15 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
   5. Combining activation function, backpropagation, Loss function, Gradient Descent together
   6. Hands-on:  Basic Image classification Pipeline using Neural Network
 
+* **Day-5:**
+  1. Recap on Computer Vision Tasks
+  2. Introduction on Convolutional Neural Network (CNN)
+  3. Composition of CNN
+  4. Comvolutional Layer, padding, stride
+  5. Pooling Layer (POOL), Fully Connected Layer(FC)
+  6. Intuitions and CNN layer visualization
+  7. Hands-on:  Basics of Image classification using CNN
+
 ## References:
 * OpenCV Tutorial and reference: <a>https://github.com/dalgu90/opencv-tutorial</a>
 * Python and Numpy: <a>https://cs231n.github.io/python-numpy-tutorial/ </a>
