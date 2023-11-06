@@ -54,6 +54,15 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
   5. Pooling Layer (POOL), Fully Connected Layer(FC)
   6. Intuitions and CNN layer visualization
   7. Hands-on:  Basics of Image classification using CNN
+ 
+* **Day-6:**
+  1. Recap 
+  2. Dataset preparation, understanding accuracy
+  3. Bias and Variance, addressing Bias and Variance problem
+  4. Regularization techniques
+  5. Dropouts
+  6. Data augmentation
+  7. Hands-on:  Addressing overfitting issues using regularization
 
 ## References:
 * OpenCV Tutorial and reference: <a>https://github.com/dalgu90/opencv-tutorial</a>
