@@ -63,6 +63,14 @@ Broadway, Ultimo, NSW 2007 Australia<br/>
   5. Dropouts
   6. Data augmentation
   7. Hands-on:  Addressing overfitting issues using regularization
+ 
+* **Day-7:**
+  1. Exponentially Weighted Average
+  2. Optimizers: SGD with momentum, RMSProp, Adam
+  3. Transfer Learning Strategies 
+  4. Classic Architectures: Alexnet, Inception/GoogleNet
+  5. Hands-on:  Transfer Learning, Classic Architecture
+
 
 ## References:
 * OpenCV Tutorial and reference: <a>https://github.com/dalgu90/opencv-tutorial</a>
