@@ -2,7 +2,8 @@
 
 ## Instance Segmentation
 *   Masked-RCNN: https://colab.research.google.com/github/RomRoc/maskrcnn_train_tensorflow_colab/blob/master/maskrcnn_custom_tf_colab.ipynb
-*   GitHub: https://github.com/matterport/Mask_RCNN 
+*   GitHub: https://github.com/matterport/Mask_RCNN
+*   Example: https://github.com/rakehsaleem/Crack-Detection-TF-1.x.x/blob/master/crack/inspect_crack_model.ipynb 
 
 ## Semantic Segmentation
 *   Unet: https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/
